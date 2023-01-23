@@ -38,7 +38,6 @@ const Cases = () => {
     ))
     console.log(caseData, "cccaaassseeesss");
 
-
     return (
         <div>
             <AppBar>
@@ -74,4 +73,5 @@ const Cases = () => {
         </div>
     )
 }
+
 export default Cases;
